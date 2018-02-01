@@ -12,9 +12,11 @@
   "profile": {
     "name": "vilardo"
   },
-  "EmissaoPortalRural" : 
+  "CotacaoInserir" : 
     {
-       "message" : "Funciona"
+       "message" : "Funciona",
+	   "message2" : "Funciona",
+	   "message"3 : "Funciona"
     }
   
 }
