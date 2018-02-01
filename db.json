@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Oi"
+    }
+  ],
+  "profile": {
+    "name": "vilardo"
+  },
+  "EmissaoPortalRural" : 
+    {
+       "message" : "Funciona"
+    }
+  
+}
