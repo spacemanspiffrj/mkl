@@ -16,7 +16,8 @@
   },
   "CotacaoInserir" : 
     {
-       "message" : "Funciona"
+       "message" : "Funciona",
+	   "retorno": "Teste passando ID2"
     }
   
 }
