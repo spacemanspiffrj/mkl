@@ -14,7 +14,16 @@
   },
   "CotacaoInserir" : 
     {
-       "message" : "Funciona"
-    }
+       "cd_retorno" : "0",
+	   "id_proposta_inicio" : "9999999",
+	   "nm_retorno" : "Processmento efetuado com sucesso",
+	   "nr_cotacao" : "99999999",
+   }
   
 }
+
+
+
+
+{
+  
