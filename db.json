@@ -16,8 +16,43 @@
   },
   "CotacaoInserir" : 
     {
-       "message" : "Funciona",
-	   "retorno": "Teste passando ID2"
-    }
+	  "cd_retorno": 0,
+	  "id_proposta_inicio": 9999999,
+	  "nm_retorno": "Com sucesso",
+	  "nr_cotacao": 99992229999,
+	  "InserirClientePropriedade": {
+		"cd_retorno": 0,
+		"id_proposta_inicio": null,
+		"id_proposta_novo": null,
+		"nm_retorno": null
+	  },
+	  "InserirDadosItem": {
+		"cd_retorno": 0,
+		"id_proposta_novo": null,
+		"nm_retorno": null
+	  },
+	  "InserirCoberturas": [
+		{
+		  "cd_retorno": 0,
+		  "id_proposta_inicio": null,
+		  "id_proposta_novo": null,
+		  "nm_retorno": null
+		}
+	  ],
+	  "InserirQuestoes": [
+		{
+		  "cd_retorno": 0,
+		  "id_proposta_inicio": null,
+		  "id_proposta_novo": null,
+		  "nm_retorno": null
+		}
+	  ],
+	  "InserirParcelamento": {
+		"cd_retorno": 0,
+		"id_proposta_inicio": null,
+		"id_proposta_novo": null,
+		"nm_retorno": null
+	  }
+	}
   
 }
